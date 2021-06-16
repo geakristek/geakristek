@@ -1,0 +1,41 @@
+h1 {
+    text-align: center;
+}
+p {
+    color: bisque;
+    background-color: rgba(98, 81, 143, 0.616);
+    width: 300px;
+    padding: 10px;
+    }
+p {
+    text-align: center;
+}
+body {
+    background-image: url(slike/oblaci.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1, h2 {
+    color: rgb(121, 21, 21);
+}
+a {
+    color: rgb(143, 43, 43);
+}
+a:hover {
+    color: rgb(85, 27, 27);
+}
+b {
+    color: darkgray;
+}
+b:hover {
+    color: white;
+}
+img {
+    height: 200px;
+}
+h1, h2, p, a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+video {
+    text-align: center;
+}

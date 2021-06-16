@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+}
+p {
+    color: bisque;
+    background-color: rgba(98, 81, 143, 0.24);
+    width: 300px;
+    padding: 10px;
+    }
+p {
+    text-align: center;
+}
+body {
+    background-image: url(slike/voda.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2, h4{
+    color: rgba(17, 61, 126, 0.911);
+    font-size: 16px;
+}
+a {
+    color: rgb(160, 65, 65);
+}
+a:hover {
+    color: rgb(136, 6, 6);
+}
+b {
+    color: rgb(203, 255, 255);
+}
+b:hover {
+    color: white;
+}
+img {
+    height: 200px;
+    position: relative; left: 800px; top: -200px; 
+}
+h3 {
+    font-size: 24px;
+    font-family: cursive;
+    color: rgb(50, 62, 117);
+}
+h1 {
+    font-size: 38px;
+    color: rgb(23, 45, 78);
+    font-family: Arial, Helvetica, sans-serif;
+}

@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+}
+p {
+    color: bisque;
+    background-color: rgb(98, 81, 143);
+    width: 300px;
+    padding: 10px;
+    }
+p {
+    text-align: center;
+}
+body {
+    background-image: url(slike/universe.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1, h2 {
+    color: rosybrown;
+}
+a {
+    color: darkgray;
+}
+a:hover {
+    color: rgb(98, 161, 158);
+}
+b {
+    color: darkgray;
+}
+b:hover {
+    color: white;
+}
+img {
+    height: 200px;
+    position: relative; left: 800px; top: -200px; 
+}
